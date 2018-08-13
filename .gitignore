@@ -1,4 +1,16 @@
+# IDEs
 /.idea
+
+# NPM
 /grunt-browserify/node_modules
-/grunt-browserify/build
 /grunt-browserify/npm-debug.log
+/npm-scripts/node_modules
+/npm-scripts/npm-debug.log
+
+# Builds
+/grunt-browserify/build
+/npm-scripts/dist
+
+# Tests
+/npm-scripts/coverage
+/npm-scripts/test.tap

@@ -1,0 +1,11 @@
+$main-login-color: #a01467;
+
+#app {
+  div.login {
+    button {
+      background: $main-login-color;
+    }
+
+    width: 50%;
+  }
+}

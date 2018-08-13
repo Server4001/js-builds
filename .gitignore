@@ -6,11 +6,16 @@
 /grunt-browserify/npm-debug.log
 /npm-scripts/node_modules
 /npm-scripts/npm-debug.log
+/gulp-react-flux/node_modules
 
 # Builds
 /grunt-browserify/build
 /npm-scripts/dist
+/gulp-react-flux/dist/*
 
 # Tests
 /npm-scripts/coverage
 /npm-scripts/test.tap
+
+# Configs
+/gulp-react-flux/config/config.json

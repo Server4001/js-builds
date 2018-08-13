@@ -1,0 +1,8 @@
+"use strict";
+
+module.exports = {
+    AUTHOR_CREATE: 'AUTHOR_CREATE',
+    AUTHOR_DELETE: 'AUTHOR_DELETE',
+    AUTHOR_UPDATE: 'AUTHOR_UPDATE',
+    INITIALIZE: 'INITIALIZE'
+};

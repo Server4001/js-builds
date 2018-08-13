@@ -1,0 +1,45 @@
+{
+  "name": "react-and-flux",
+  "version": "0.1.0",
+  "description": "Building applications with react and flux",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brice Bentler",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "7.1.1",
+    "babel-preset-latest": "6.22.0",
+    "babel-preset-react": "6.23.0",
+    "babelify": "7.3.0",
+    "browserify": "14.1.0",
+    "eslint-config-react": "1.1.7",
+    "eslint-plugin-react": "6.10.0",
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.1",
+    "gulp-connect": "5.0.0",
+    "gulp-eslint": "3.0.1",
+    "gulp-livereload": "3.8.1",
+    "gulp-open": "2.0.0",
+    "gulp-sourcemaps": "2.4.1",
+    "gulp-uglify": "2.1.0",
+    "gulp-util": "3.0.8",
+    "vinyl-buffer": "1.0.0",
+    "vinyl-source-stream": "1.1.0"
+  },
+  "dependencies": {
+    "body-parser": "1.16.1",
+    "bootstrap": "3.3.7",
+    "ejs": "2.5.6",
+    "express": "4.14.1",
+    "flux": "3.1.2",
+    "jquery": "3.3.1",
+    "lodash": "4.17.4",
+    "mongoose": "4.8.4",
+    "react": "15.4.2",
+    "react-dom": "15.4.2",
+    "react-router": "3.0.2",
+    "toastr": "2.1.2"
+  }
+}

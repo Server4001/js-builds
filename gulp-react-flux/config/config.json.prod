@@ -1,0 +1,5 @@
+{
+    "port": 8080,
+    "mongodb": "mongodb://mongo.mysite.com:27017/react_and_flux",
+    "allow_delete_all_authors": false
+}

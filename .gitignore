@@ -8,11 +8,14 @@
 /npm-scripts/npm-debug.log
 /gulp-react-flux/node_modules
 /webpack/node_modules
+/grunt-babel/node_modules
+/grunt-babel/npm-debug.log
 
 # Builds
 /grunt-browserify/build
 /npm-scripts/dist
 /gulp-react-flux/dist/*
+/grunt-babel/build
 
 # Tests
 /npm-scripts/coverage

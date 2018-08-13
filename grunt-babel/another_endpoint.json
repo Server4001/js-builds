@@ -1,0 +1,6 @@
+{
+    "status": "success",
+    "data": {
+        "this_is": "another endpoint"
+    }
+}

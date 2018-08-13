@@ -1,0 +1,4 @@
+/.idea
+/grunt-browserify/node_modules
+/grunt-browserify/build
+/grunt-browserify/npm-debug.log

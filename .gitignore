@@ -10,12 +10,14 @@
 /webpack/node_modules
 /grunt-babel/node_modules
 /grunt-babel/npm-debug.log
+/grunt-react-babel/node_modules
 
 # Builds
 /grunt-browserify/build
 /npm-scripts/dist
 /gulp-react-flux/dist/*
 /grunt-babel/build
+/grunt-react-babel/build/.module-cache
 
 # Tests
 /npm-scripts/coverage
@@ -26,3 +28,6 @@
 
 # Cache
 /webpack/.sass-cache
+
+# Bower
+/grunt-react-babel/bower_components

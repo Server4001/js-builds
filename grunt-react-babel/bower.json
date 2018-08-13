@@ -1,0 +1,23 @@
+{
+  "name": "react-up-and-running",
+  "version": "0.1.0",
+  "authors": [
+    "Brice Bentler <server4001@gmail.com>"
+  ],
+  "description": "Example React.js app",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "plupload": "~2.1.8"
+  }
+}

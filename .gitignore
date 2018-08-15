@@ -11,6 +11,7 @@
 /grunt-babel/node_modules
 /grunt-babel/npm-debug.log
 /grunt-react-babel/node_modules
+/grunt-browserify-es2017/node_modules
 
 # Builds
 /grunt-browserify/build
@@ -18,6 +19,8 @@
 /gulp-react-flux/dist/*
 /grunt-babel/build
 /grunt-react-babel/build/.module-cache
+/grunt-browserify-es2017/public
+/grunt-browserify-es2017/dist
 
 # Tests
 /npm-scripts/coverage
@@ -28,6 +31,7 @@
 
 # Cache
 /webpack/.sass-cache
+/grunt-browserify-es2017/.sass-cache
 
 # Bower
 /grunt-react-babel/bower_components

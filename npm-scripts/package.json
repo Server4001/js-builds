@@ -38,7 +38,7 @@
     "eslint": "3.19.0",
     "exorcist": "0.4.0",
     "istanbul": "0.4.5",
-    "lr-server": "0.3.0",
+    "lr-server": "^1.0.0",
     "mocha": "3.2.0",
     "node-sass": "4.5.2",
     "uglify-js": "2.8.22"
